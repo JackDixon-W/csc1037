@@ -3,5 +3,4 @@
 */zip*
 
 # excludes the fake git
-# this git is used for the repo she wants to
-*/fakegit*
+*/fakegit/*
